@@ -94,3 +94,4 @@ The deployment assumes the following items are already deployed:
 | 20190205 | Cleanup template folder                                                                                                    |
 | 20190430 | Cleanup documentation                                                                                                      |
 | 20190506 | Fix cross subscription peering issue and update readme                                                                     |
+| 20190516 | [20190516](https://github.com/canada-ca-azure-templates/vnet-peering/tree/20190516) | Created test validation.                                   |

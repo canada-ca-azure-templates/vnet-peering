@@ -6,7 +6,7 @@
             "value": [
                 {
                     "name": "PwS2-validate-vnet-peering-1-VNET",
-                    "resourceGroup": "PwS2-validate-peering-RG",
+                    "resourceGroup": "PwS2-validate-vnet-peering-RG",
                     "addressPrefixes": [
                         "10.250.0.0/20"
                     ],
@@ -29,7 +29,7 @@
                 },
                 {
                     "name": "PwS2-validate-vnet-peering-2-VNET",
-                    "resourceGroup": "PwS2-validate-peering-RG",
+                    "resourceGroup": "PwS2-validate-vnet-peering-RG",
                     "addressPrefixes": [
                         "10.255.0.0/20"
                     ],

@@ -8,7 +8,7 @@
         "rgNames": {
             "value": [
                 {
-                    "resourceGroup": "PwS2-validate-peering-RG"
+                    "resourceGroup": "PwS2-validate-vnet-peering-RG"
                 }
             ]
         },
