@@ -87,11 +87,10 @@ The deployment assumes the following items are already deployed:
 
 ## History
 
-| Date     | Change                                                                                                                     |
+| Date     | Release| Change                                                                                                            |
 | -------- | -------------------------------------------------------------------------------------------------------------------------- |
-| 20181120 | Adding helpers folder and getParameters.json template to provide method to read parameter files from parent link template. |
-| 20181214 | Implementing new template name as template.json                                                                            |
-| 20190205 | Cleanup template folder                                                                                                    |
-| 20190430 | Cleanup documentation                                                                                                      |
-| 20190506 | Fix cross subscription peering issue and update readme                                                                     |
-| 20190516 | [20190516](https://github.com/canada-ca-azure-templates/vnet-peering/tree/20190516) | Created test validation.                                   |
+| 20181120 | |Adding helpers folder and getParameters.json template to provide method to read parameter files from parent link template. |
+| 20181214 | |Implementing new template name as template.json                                                                            |
+| 20190205 | |Cleanup template folder                                                                                                    |
+| 20190430 | |Cleanup documentation                                                                                                      |
+| 20190506 | |Fix cross subscription peering issue and update readme                                                                     |
