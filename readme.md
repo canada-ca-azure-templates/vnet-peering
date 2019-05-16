@@ -13,8 +13,8 @@ This template is used to [peer vnets](<https://docs.microsoft.com/en-us/azure/te
 
 The deployment assumes the following items are already deployed:
 
-* [Resource Group](<https://github.com/canada-ca/accelerators_accelerateurs-azure/blob/master/Templates/arm/resourcegroups/latest/readme.md>)
-* [Virtal Network](<https://github.com/canada-ca/accelerators_accelerateurs-azure/blob/master/Templates/arm/vnet-subnet/latest/readme.md>)
+* [Resource Group](<https://github.com/canada-ca-azure-templates/resourcegroups>)
+* [Virtal Network](<https://github.com/canada-ca-azure-templates/vnet-subnet>)
 
 ## Parameter format
 
